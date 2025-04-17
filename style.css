@@ -1,0 +1,27 @@
+body{
+background-color: aquamarine;
+}
+p {
+    text-align: center;
+    margin: 20px auto;
+
+}
+h2 {
+ color : burlywood;
+
+}
+/*Configuração do menu*/
+#bodyindex {
+    background-color: aqua(229, 200, 164);
+    text-align: left;
+    border-width: 10px;
+    margin: 20 auto; 
+    border: red solid 1px;
+}
+
+.menu li a a:hover {
+    background-color: black;
+    color: darkred;
+    box-shadow:  3px 10px 0px blue;
+    text-shadow: 0px 0px 5px white;
+}
